@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on any subject.
 - 📫 How to reach me: GMail( codeboycb@gmail.com ) or FoxMail( gyj2006@foxmail.com )
 
----
+
 
 <!---
 CodeBoy2006/CodeBoy2006 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -21,7 +21,7 @@ $$
 $$
 
 
----
+
 
 [![](https://tzcawa.top/ratingshow?user=codeboycb)](https://codeforces.com/profile/codeboycb)
 [![](https://tzcawa.top/ratingshow?user=gyj2006)](https://codeforces.com/profile/gyj2006)
@@ -30,7 +30,7 @@ $$
 ![](https://math.stackexchange.com/users/flair/1032902.png)
 ![](https://projecteuler.net/profile/codeboy.png)
 
----
+
 
 My Project Euler Friend Key：
 `1975601_UROcJJUqWZXzErDhEmvC5Knkx4FjZEaG`
