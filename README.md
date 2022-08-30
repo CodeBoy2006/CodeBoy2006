@@ -27,8 +27,12 @@ $$
 [![](https://tzcawa.top/ratingshow?user=gyj2006)](https://codeforces.com/profile/gyj2006)
 [![](https://atrating.baoshuo.dev/rating?username=codeboy2006)](https://atcoder.jp/users/codeboy2006)
 [![](https://img.shields.io/badge/GitHub-CodeBoy2006-lightgrey?style=for-the-badge&logo=github)](https://github.com/CodeBoy2006)
+
+#
 ![](https://math.stackexchange.com/users/flair/1032902.png)
 ![](https://projecteuler.net/profile/codeboy.png)
+
+#
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CodeBoy2006&layout=compact)
 ![CodeBoy2006's GitHub stats](https://github-readme-stats.vercel.app/api?username=CodeBoy2006)
 
@@ -36,6 +40,8 @@ My Project Euler Friend Key：
 `1975601_UROcJJUqWZXzErDhEmvC5Knkx4FjZEaG`
 
 欢迎关注 [本蒟蒻的博客 ![](https://img.shields.io/badge/Blog-CodeBoy-9cf)](https://www.codeboy.site)
+
+#
 
 ![](https://statcard.vercel.app/shield?id=253068)
 
