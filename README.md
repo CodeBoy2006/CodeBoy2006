@@ -20,15 +20,22 @@ $$
 \mathscr{\textcolor{purple}W\textcolor{cyan}O\textcolor{green}R\textcolor{orange}L\textcolor{red}D}
 $$
 
-
-
-
-[![](https://tzcawa.top/ratingshow?user=codeboycb)](https://codeforces.com/profile/codeboycb)
-[![](https://tzcawa.top/ratingshow?user=gyj2006)](https://codeforces.com/profile/gyj2006)
-[![](https://atrating.baoshuo.dev/rating?username=codeboy2006)](https://atcoder.jp/users/codeboy2006)
-[![](https://img.shields.io/badge/GitHub-CodeBoy2006-lightgrey?style=for-the-badge&logo=github)](https://github.com/CodeBoy2006)
+![](https://cfrating.baoshuo.dev/rating?username=codeboycb)
+![](https://cfrating.baoshuo.dev/rating?username=gyj2006)
 
 #
+Languages
+
+![](https://img.shields.io/static/v1?style=for-the-badge&message=C&color=222222&logo=C&logoColor=A8B9CC&label=)
+![](https://img.shields.io/static/v1?style=for-the-badge&message=C%2B%2B&color=00599C&logo=C%2B%2B&logoColor=FFFFFF&label=)
+![](https://img.shields.io/static/v1?style=for-the-badge&message=Python&color=3776AB&logo=Python&logoColor=FFFFFF&label=)
+![](https://img.shields.io/static/v1?style=for-the-badge&message=LaTeX&color=3776AB&logo=Tex&logoColor=FFFFFF&label=)
+
+![](https://img.shields.io/static/v1?style=for-the-badge&message=iPad%20Pro%202020&color=000000&logo=Apple&logoColor=FFFFFF&label=)
+
+![](https://img.shields.io/static/v1?style=for-the-badge&message=Hexo&color=0E83CD&logo=Hexo&logoColor=FFFFFF&label=)
+[![](https://img.shields.io/badge/GitHub-CodeBoy2006-lightgrey?style=for-the-badge&logo=github)](https://github.com/CodeBoy2006)
+
 ![](https://math.stackexchange.com/users/flair/1032902.png)
 ![](https://projecteuler.net/profile/codeboy.png)
 
