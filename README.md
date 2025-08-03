@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on any subject.
 - 📫 How to reach me: GMail( codeboycb@gmail.com )
 
-
+![](https://github-readme-stats.vercel.app/api?username=CodeBoy2006&show_icons=true&include_all_commits=true&hide_border=true)
 
 <!---
 CodeBoy2006/CodeBoy2006 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
