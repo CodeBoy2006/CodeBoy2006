@@ -1,6 +1,6 @@
 - 👋 Hi, I’m CodeBoy.
 - 👀 I’m interested in Programming.
-- 🌱 I’m currently learning Algorithms and Mathematics.
+- 🌱 I’m currently learning Software Engineering, Algorithms, and Mathematics.
 - 💞️ I’m looking to collaborate on any subject.
 - 📫 How to reach me: GMail( codeboycb@gmail.com )
 
