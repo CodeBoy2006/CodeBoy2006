@@ -1,7 +1,7 @@
 - 👋 Hi, I’m CodeBoy.
 - 👀 I’m interested in Programming.
-- 🌱 I’m currently learning Software Engineering, Algorithms, and Mathematics.
-- 💞️ I’m looking to collaborate on any subject.
+- 🌱 I’m currently learning Software Engineering, AI, Algorithms, and Mathematics.
+- 💞️ I’m looking to collaborate on *related topics*.
 - 📫 How to reach me: GMail( codeboycb@gmail.com )
 
 ![](https://github-readme-stats.vercel.app/api?username=CodeBoy2006&show_icons=true&include_all_commits=true&hide_border=true&xx=1114142423)
