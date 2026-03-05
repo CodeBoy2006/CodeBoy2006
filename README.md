@@ -1,5 +1,5 @@
-- 👋 Hi, I’m CodeBoy.
-- 🌱 I’m currently learning Software Engineering, Security, Algorithms, and Mathematics(TCS).
+- 👋 Hi, I’m CodeBoy, a freshman at ZJUT.
+- 🌱 I’m currently learning Software Engineering, Security, and Mathematics(TCS).
 - 💞️ I’m looking to collaborate on *related topics*.
 - 📫 How to reach me: GMail( codeboycb@gmail.com )
 
