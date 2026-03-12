@@ -9,6 +9,10 @@
 ![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=CodeBoy2006&theme=aura_dark&utcOffset=8)
 
 
+<img src="https://img.shields.io/static/v1?style=for-the-badge&message=Mathematics&color=4B0082&label=" alt="Mathematics" />
+<img src="https://img.shields.io/static/v1?style=for-the-badge&message=Algorithms&color=FF4500&label=" alt="Algorithms" />
+<img src="https://img.shields.io/static/v1?style=for-the-badge&message=Data+Structures&color=02569B&label=" alt="Data Structures" />
+
 ### Programming Languages
 <div style="display: flex; flex-wrap: wrap; gap: 8px; align-items: center;">
   <img src="https://img.shields.io/static/v1?style=for-the-badge&message=C&color=222222&logo=C&logoColor=A8B9CC&label=" alt="C" />
@@ -30,6 +34,7 @@
   <img src="https://img.shields.io/static/v1?style=for-the-badge&message=Windows&color=3399FF&logo=windows&logoColor=FFFFFF&label=" alt="Windows" />
   <img src="https://img.shields.io/static/v1?style=for-the-badge&message=Debian&color=A80030&logo=debian&logoColor=FFFFFF&label=" alt="Debian" />
   <img src="https://img.shields.io/static/v1?style=for-the-badge&message=Ubuntu&color=E95420&logo=ubuntu&logoColor=FFFFFF&label=" alt="Ubuntu" />
+  <img src="https://img.shields.io/static/v1?style=for-the-badge&message=Alpine+Linux&color=0D597F&logo=alpinelinux&logoColor=FFFFFF&label=" alt="Alpine" />
   <img src="https://img.shields.io/static/v1?style=for-the-badge&message=iOS&color=000000&logo=ios&logoColor=FFFFFF&label=" alt="iOS" />
   <img src="https://img.shields.io/static/v1?style=for-the-badge&message=Android&color=3DDC84&logo=android&logoColor=FFFFFF&label=" alt="Android" />
   <img src="https://img.shields.io/static/v1?style=for-the-badge&message=Chrome&color=4285F4&logo=googlechrome&logoColor=FFFFFF&label=" alt="Chrome" />
@@ -38,6 +43,7 @@
 ### Frontend & Apps
 <div style="display: flex; flex-wrap: wrap; gap: 8px; align-items: center;">
   <img src="https://img.shields.io/static/v1?style=for-the-badge&message=React&color=61DAFB&logo=react&logoColor=000000&label=" alt="React" />
+  <img src="https://img.shields.io/static/v1?style=for-the-badge&message=Vue.js&color=4FC08D&logo=vuedotjs&logoColor=FFFFFF&label=" alt="Vue.js" />
   <img src="https://img.shields.io/static/v1?style=for-the-badge&message=Flutter&color=02569B&logo=flutter&logoColor=FFFFFF&label=" alt="Flutter" />
   <img src="https://img.shields.io/static/v1?style=for-the-badge&message=Tauri&color=24C8DB&logo=tauri&logoColor=FFFFFF&label=" alt="Tauri" />
   <img src="https://img.shields.io/static/v1?style=for-the-badge&message=VitePress&color=0E83CD&logo=vitepress&logoColor=FFFFFF&label=" alt="VitePress" />
@@ -53,6 +59,7 @@
 ### Databases & Streaming
 <div style="display: flex; flex-wrap: wrap; gap: 8px; align-items: center;">
   <img src="https://img.shields.io/static/v1?style=for-the-badge&message=PostgreSQL&color=4169E1&logo=postgresql&logoColor=FFFFFF&label=" alt="PostgreSQL" />
+  <img src="https://img.shields.io/static/v1?style=for-the-badge&message=SQLite&color=003B57&logo=sqlite&logoColor=FFFFFF&label=" alt="SQLite" />
   <img src="https://img.shields.io/static/v1?style=for-the-badge&message=Redis&color=DC382D&logo=redis&logoColor=FFFFFF&label=" alt="Redis" />
   <img src="https://img.shields.io/static/v1?style=for-the-badge&message=Neo4j&color=008CC1&logo=neo4j&logoColor=FFFFFF&label=" alt="Neo4j" />
   <img src="https://img.shields.io/static/v1?style=for-the-badge&message=Kafka&color=231F20&logo=apachekafka&logoColor=FFFFFF&label=" alt="Kafka" />
@@ -63,7 +70,6 @@
   <img src="https://img.shields.io/static/v1?style=for-the-badge&message=Docker&color=2496ED&logo=docker&logoColor=FFFFFF&label=" alt="Docker" />
   <img src="https://img.shields.io/static/v1?style=for-the-badge&message=K8s&color=326CE5&logo=kubernetes&logoColor=FFFFFF&label=" alt="K8s" />
   <img src="https://img.shields.io/static/v1?style=for-the-badge&message=NGINX&color=009639&logo=nginx&logoColor=FFFFFF&label=" alt="NGINX" />
-  <img src="https://img.shields.io/static/v1?style=for-the-badge&message=gRPC&color=244C5A&logo=grpc&logoColor=FFFFFF&label=" alt="gRPC" />
 </div>
 
 ### Toolchains
@@ -71,6 +77,9 @@
   <img src="https://img.shields.io/static/v1?style=for-the-badge&message=Git&color=F05032&logo=Git&logoColor=FFFFFF&label=" alt="Git" />
   <img src="https://img.shields.io/static/v1?style=for-the-badge&message=LLVM&color=222C37&logo=llvm&logoColor=FFFFFF&label=" alt="LLVM" />
   <img src="https://img.shields.io/static/v1?style=for-the-badge&message=Cargo&color=000000&logo=rust&logoColor=FFFFFF&label=" alt="Cargo" />
+  <img src="https://img.shields.io/static/v1?style=for-the-badge&message=Vite&color=646CFF&logo=vite&logoColor=FFFFFF&label=" alt="Vite" />
+  <img src="https://img.shields.io/static/v1?style=for-the-badge&message=CMake&color=064F8C&logo=cmake&logoColor=FFFFFF&label=" alt="CMake" />
+  <img src="https://img.shields.io/static/v1?style=for-the-badge&message=GDB&color=A42E2B&logo=gnu&logoColor=FFFFFF&label=" alt="GDB" />
   <img src="https://img.shields.io/static/v1?style=for-the-badge&message=Turborepo&color=000000&logo=turborepo&logoColor=FFFFFF&label=" alt="Turborepo" />
   <img src="https://img.shields.io/static/v1?style=for-the-badge&message=Wireshark&color=1679A7&logo=wireshark&logoColor=FFFFFF&label=" alt="Wireshark" />
 </div>
@@ -78,6 +87,7 @@
 ### Editors & Terminals
 <div style="display: flex; flex-wrap: wrap; gap: 8px; align-items: center;">
   <img src="https://img.shields.io/static/v1?style=for-the-badge&message=Visual+Studio+Code&color=007ACC&logo=visualstudiocode&logoColor=FFFFFF&label=" alt="VS Code" />
+  <img src="https://img.shields.io/static/v1?style=for-the-badge&message=Vim&color=019733&logo=vim&logoColor=FFFFFF&label=" alt="Vim" />
   <img src="https://img.shields.io/static/v1?style=for-the-badge&message=Xcode&color=147EFB&logo=xcode&logoColor=FFFFFF&label=" alt="Xcode" />
   <img src="https://img.shields.io/static/v1?style=for-the-badge&message=Tmux&color=1BB91F&logo=tmux&logoColor=FFFFFF&label=" alt="Tmux" />
 </div>
