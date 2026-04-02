@@ -23,6 +23,7 @@
   <img src="https://img.shields.io/static/v1?style=for-the-badge&message=TypeScript&color=3178C6&logo=typescript&logoColor=FFFFFF&label=" alt="TypeScript" />
   <img src="https://img.shields.io/static/v1?style=for-the-badge&message=PHP&color=777BB4&logo=php&logoColor=FFFFFF&label=" alt="PHP" />
   <img src="https://img.shields.io/static/v1?style=for-the-badge&message=Swift&color=F05138&logo=swift&logoColor=FFFFFF&label=" alt="Swift" />
+  <img src="https://img.shields.io/static/v1?style=for-the-badge&message=Haskell&color=5D4F85&logo=haskell&logoColor=FFFFFF&label=" alt="Haskell" />
   <img src="https://img.shields.io/static/v1?style=for-the-badge&message=Assembly&color=6E4C13&logo=assemblyscript&logoColor=FFFFFF&label=" alt="Assembly" />
   <img src="https://img.shields.io/static/v1?style=for-the-badge&message=Lua&color=2C2D72&logo=lua&logoColor=FFFFFF&label=" alt="Lua" />
   <img src="https://img.shields.io/static/v1?style=for-the-badge&message=GNU+Bash&color=4EAA25&logo=gnubash&logoColor=FFFFFF&label=" alt="Bash" />
