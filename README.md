@@ -82,6 +82,12 @@
   <img src="https://img.shields.io/static/v1?style=for-the-badge&message=GDB&color=A42E2B&logo=gnu&logoColor=FFFFFF&label=" alt="GDB" />
   <img src="https://img.shields.io/static/v1?style=for-the-badge&message=Turborepo&color=000000&logo=turborepo&logoColor=FFFFFF&label=" alt="Turborepo" />
   <img src="https://img.shields.io/static/v1?style=for-the-badge&message=Wireshark&color=1679A7&logo=wireshark&logoColor=FFFFFF&label=" alt="Wireshark" />
+  <img src="https://img.shields.io/static/v1?style=for-the-badge&message=GCC&color=A42E2B&logo=gnu&logoColor=FFFFFF&label=" alt="GCC" />
+  <img src="https://img.shields.io/static/v1?style=for-the-badge&message=GNU+Make&color=008A20&logo=gnu&logoColor=FFFFFF&label=" alt="Make" />
+  <img src="https://img.shields.io/static/v1?style=for-the-badge&message=pnpm&color=F69220&logo=pnpm&logoColor=FFFFFF&label=" alt="pnpm" />
+  <img src="https://img.shields.io/static/v1?style=for-the-badge&message=Homebrew&color=FBB040&logo=homebrew&logoColor=FFFFFF&label=" alt="Homebrew" />
+  <img src="https://img.shields.io/static/v1?style=for-the-badge&message=GitHub+Actions&color=2088FF&logo=githubactions&logoColor=FFFFFF&label=" alt="GitHub Actions" />
+  <img src="https://img.shields.io/static/v1?style=for-the-badge&message=ESLint&color=4B32C3&logo=eslint&logoColor=FFFFFF&label=" alt="ESLint" />
 </div>
 
 ### Editors & Terminals
