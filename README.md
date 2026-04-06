@@ -8,10 +8,9 @@
 ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=CodeBoy2006&theme=aura_dark)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=CodeBoy2006&theme=aura_dark&utcOffset=8)
 
+![](https://math.vercel.app/?from=\mathcal{M}\vdash\mathcal{A}(\mathcal{D})\to\mathbb{S})
 
-<img src="https://img.shields.io/static/v1?style=for-the-badge&message=Mathematics&color=4B0082&label=" alt="Mathematics" />
-<img src="https://img.shields.io/static/v1?style=for-the-badge&message=Algorithms&color=FF4500&label=" alt="Algorithms" />
-<img src="https://img.shields.io/static/v1?style=for-the-badge&message=Data+Structures&color=02569B&label=" alt="Data Structures" />
+<img src="https://img.shields.io/static/v1?style=flat-square&message=Mathematics&color=4B0082&label=" alt="Mathematics" /> **⊢** <img src="https://img.shields.io/static/v1?style=flat-square&message=Algorithms&color=FF4500&label=" alt="Algorithms" /> **(** <img src="https://img.shields.io/static/v1?style=flat-square&message=Data+Structures&color=02569B&label=" alt="Data Structures" /> **)** → **Solution**
 
 ### Programming Languages
 <div style="display: flex; flex-wrap: wrap; gap: 8px; align-items: center;">
