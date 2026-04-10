@@ -45,6 +45,8 @@
   <img src="https://img.shields.io/static/v1?style=for-the-badge&message=React&color=61DAFB&logo=react&logoColor=000000&label=" alt="React" />
   <img src="https://img.shields.io/static/v1?style=for-the-badge&message=Vue.js&color=4FC08D&logo=vuedotjs&logoColor=FFFFFF&label=" alt="Vue.js" />
   <img src="https://img.shields.io/static/v1?style=for-the-badge&message=Flutter&color=02569B&logo=flutter&logoColor=FFFFFF&label=" alt="Flutter" />
+  <img src="https://img.shields.io/static/v1?style=for-the-badge&message=Expo&color=000020&logo=expo&logoColor=FFFFFF&label=" alt="Expo" />
+  <img src="https://img.shields.io/static/v1?style=for-the-badge&message=tRPC&color=2596B6&logo=trpc&logoColor=FFFFFF&label=" alt="tRPC" />
   <img src="https://img.shields.io/static/v1?style=for-the-badge&message=Tauri&color=24C8DB&logo=tauri&logoColor=FFFFFF&label=" alt="Tauri" />
   <img src="https://img.shields.io/static/v1?style=for-the-badge&message=VitePress&color=0E83CD&logo=vitepress&logoColor=FFFFFF&label=" alt="VitePress" />
 </div>
