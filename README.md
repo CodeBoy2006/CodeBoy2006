@@ -21,10 +21,10 @@
   <img src="https://img.shields.io/static/v1?style=for-the-badge&message=Python&color=3776AB&logo=Python&logoColor=FFFFFF&label=" alt="Python" />
   <img src="https://img.shields.io/static/v1?style=for-the-badge&message=TypeScript&color=3178C6&logo=typescript&logoColor=FFFFFF&label=" alt="TypeScript" />
   <img src="https://img.shields.io/static/v1?style=for-the-badge&message=PHP&color=777BB4&logo=php&logoColor=FFFFFF&label=" alt="PHP" />
-  <img src="https://img.shields.io/static/v1?style=for-the-badge&message=Swift&color=F05138&logo=swift&logoColor=FFFFFF&label=" alt="Swift" />
+  <!--- <img src="https://img.shields.io/static/v1?style=for-the-badge&message=Swift&color=F05138&logo=swift&logoColor=FFFFFF&label=" alt="Swift" />--->
   <img src="https://img.shields.io/static/v1?style=for-the-badge&message=Haskell&color=5D4F85&logo=haskell&logoColor=FFFFFF&label=" alt="Haskell" />
   <img src="https://img.shields.io/static/v1?style=for-the-badge&message=Assembly&color=6E4C13&logo=assemblyscript&logoColor=FFFFFF&label=" alt="Assembly" />
-  <img src="https://img.shields.io/static/v1?style=for-the-badge&message=Lua&color=2C2D72&logo=lua&logoColor=FFFFFF&label=" alt="Lua" />
+  <!--- <img src="https://img.shields.io/static/v1?style=for-the-badge&message=Lua&color=2C2D72&logo=lua&logoColor=FFFFFF&label=" alt="Lua" />--->
   <img src="https://img.shields.io/static/v1?style=for-the-badge&message=GNU+Bash&color=4EAA25&logo=gnubash&logoColor=FFFFFF&label=" alt="Bash" />
 </div>
 
@@ -44,7 +44,7 @@
 <div style="display: flex; flex-wrap: wrap; gap: 8px; align-items: center;">
   <img src="https://img.shields.io/static/v1?style=for-the-badge&message=React&color=61DAFB&logo=react&logoColor=000000&label=" alt="React" />
   <img src="https://img.shields.io/static/v1?style=for-the-badge&message=Vue.js&color=4FC08D&logo=vuedotjs&logoColor=FFFFFF&label=" alt="Vue.js" />
-  <img src="https://img.shields.io/static/v1?style=for-the-badge&message=Flutter&color=02569B&logo=flutter&logoColor=FFFFFF&label=" alt="Flutter" />
+  <!--- <img src="https://img.shields.io/static/v1?style=for-the-badge&message=Flutter&color=02569B&logo=flutter&logoColor=FFFFFF&label=" alt="Flutter" />--->
   <img src="https://img.shields.io/static/v1?style=for-the-badge&message=Expo&color=000020&logo=expo&logoColor=FFFFFF&label=" alt="Expo" />
   <img src="https://img.shields.io/static/v1?style=for-the-badge&message=tRPC&color=2596B6&logo=trpc&logoColor=FFFFFF&label=" alt="tRPC" />
   <img src="https://img.shields.io/static/v1?style=for-the-badge&message=Tauri&color=24C8DB&logo=tauri&logoColor=FFFFFF&label=" alt="Tauri" />
@@ -63,7 +63,7 @@
   <img src="https://img.shields.io/static/v1?style=for-the-badge&message=PostgreSQL&color=4169E1&logo=postgresql&logoColor=FFFFFF&label=" alt="PostgreSQL" />
   <img src="https://img.shields.io/static/v1?style=for-the-badge&message=SQLite&color=003B57&logo=sqlite&logoColor=FFFFFF&label=" alt="SQLite" />
   <img src="https://img.shields.io/static/v1?style=for-the-badge&message=Redis&color=DC382D&logo=redis&logoColor=FFFFFF&label=" alt="Redis" />
-  <img src="https://img.shields.io/static/v1?style=for-the-badge&message=Neo4j&color=008CC1&logo=neo4j&logoColor=FFFFFF&label=" alt="Neo4j" />
+  <!--- <img src="https://img.shields.io/static/v1?style=for-the-badge&message=Neo4j&color=008CC1&logo=neo4j&logoColor=FFFFFF&label=" alt="Neo4j" />--->
   <img src="https://img.shields.io/static/v1?style=for-the-badge&message=Kafka&color=231F20&logo=apachekafka&logoColor=FFFFFF&label=" alt="Kafka" />
 </div>
 
