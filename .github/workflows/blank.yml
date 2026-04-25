@@ -40,19 +40,6 @@ jobs:
           # 开启代码行数统计
           plugin_lines: yes
 
-      - name: ⏰ Habits & Activity
-        uses: lowlighter/metrics@latest
-        with:
-          filename: assets/metrics.habits.svg
-          token: ${{ secrets.METRICS_TOKEN }}
-          base: ""
-          config_timezone: Asia/Shanghai 
-          plugin_habits: yes
-          plugin_habits_charts_type: classic
-          plugin_habits_days: 14
-          plugin_habits_facts: yes
-          plugin_habits_from: 200
-
       - name:  📅 Full Calendar
         uses: lowlighter/metrics@latest
         with:
@@ -61,35 +48,3 @@ jobs:
           base: ""
           plugin_calendar: yes
           plugin_calendar_limit: 3
-
-      - name: 🈷️ Advanced Languages Activity
-        uses: lowlighter/metrics@latest
-        with:
-          filename: assets/metrics.plugin.languages.svg
-          token: ${{ secrets.METRICS_TOKEN }}
-          base: "" # 设为空表示这张图只生成语言统计，不包含基础头信息
-          
-          # 开启语言插件
-          plugin_languages: yes
-          
-          # 1. 深度分析模式 (Indepth mode) - 极其重要
-          plugin_languages_indepth: yes
-          plugin_languages_analysis_timeout: 20
-          plugin_languages_analysis_timeout_repositories: 10
-          
-          # 2. 统计模块展示
-          plugin_languages_sections: recently-used
-          plugin_languages_details: lines, bytes-size, percentage
-          plugin_languages_limit: 8 # 最多展示 8 种语言
-          
-          plugin_languages_ignored: html, css, tex, less, dockerfile, makefile, qmake, lex, cmake, shell, gnuplot, json, yaml, toml, ini, justfile
-          plugin_languages_threshold: 2%
-          
-          # 4. 近期动态配置 (针对 recently-used)
-          plugin_languages_recent_days: 30
-          plugin_languages_recent_load: 1000
-          
-          # 5. 视觉与排版自定义
-          plugin_languages_colors: github 
-
-          commits_authoring: CodeBoy2006,codeboycb@gmail.com
