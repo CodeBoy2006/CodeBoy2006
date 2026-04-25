@@ -5,8 +5,6 @@
 
 ![](https://github-readme-stats-eta-roan-60.vercel.app/api?username=CodeBoy2006&show_icons=true&include_all_commits=true&hide_border=true&xx=1114142423)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=CodeBoy2006&theme=aura_dark)
-![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=CodeBoy2006&theme=aura_dark)
-![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=CodeBoy2006&theme=aura_dark&utcOffset=8)
 ![](/metrics.plugin.calendar.full.svg)
 ![](/assets/metrics.plugin.isocalendar.fullyear.svg)
 ![](/assets/metrics.plugin.languages.svg)
