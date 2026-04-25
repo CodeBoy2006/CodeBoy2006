@@ -1,7 +1,7 @@
 name: Metrics  
 on:  
   # 每天更新一次或两次就足够了，每小时更新会消耗大量的 GitHub Actions 额度
-  schedule: [{cron: "0 0,12 * * *"}]  
+  schedule: [{cron: "0 0 * * *"}]  
   workflow_dispatch:  
   push: {branches: ["master", "main"]}  
 
@@ -73,26 +73,20 @@ jobs:
           plugin_languages: yes
           
           # 1. 深度分析模式 (Indepth mode) - 极其重要
-          # 开启后会真正 clone 你的仓库并扫描 commit，从而解锁 "lines" (代码行数) 统计
           plugin_languages_indepth: yes
-          plugin_languages_analysis_timeout: 45 # 设置超时时间防止 Action 运行太久失败
+          plugin_languages_analysis_timeout: 20
+          plugin_languages_analysis_timeout_repositories: 10
           
           # 2. 统计模块展示
-          # 同时展示 "历史最常用" (most-used) 和 "近期正在用" (recently-used)
-          plugin_languages_sections: most-used, recently-used
-          # 展示细节：代码行数(开启 indepth 后才能用)、字节大小、百分比
+          plugin_languages_sections: recently-used
           plugin_languages_details: lines, bytes-size, percentage
           plugin_languages_limit: 8 # 最多展示 8 种语言
           
-          # 3. 数据过滤 (让你的数据面板更专业)
-          # 忽略一些属于配置/文档的语言，只保留硬核代码
           plugin_languages_ignored: html, css, tex, less, dockerfile, makefile, qmake, lex, cmake, shell, gnuplot, json, yaml, toml, ini, justfile
-          # 隐藏占比低于 1% 的微小语言
-          plugin_languages_threshold: 1%
+          plugin_languages_threshold: 2%
           
           # 4. 近期动态配置 (针对 recently-used)
-          # 仅扫描最近 14 天的 400 个事件
-          plugin_languages_recent_days: 14
+          plugin_languages_recent_days: 30
           plugin_languages_recent_load: 1000
           
           # 5. 视觉与排版自定义
