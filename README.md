@@ -7,6 +7,10 @@
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=CodeBoy2006&theme=aura_dark)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=CodeBoy2006&theme=aura_dark)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=CodeBoy2006&theme=aura_dark&utcOffset=8)
+![](/metrics.plugin.calendar.full.svg)
+![](/assets/metrics.plugin.isocalendar.fullyear.svg)
+![](/assets/metrics.plugin.languages.svg)
+
 
 ![](https://math.vercel.app/?from=\mathcal{A}:\mathcal{D}\xrightarrow{\quad\mathcal{M}\\quad}\mathbb{S})
 
