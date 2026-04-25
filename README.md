@@ -7,8 +7,6 @@
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=CodeBoy2006&theme=aura_dark)
 ![](/metrics.plugin.calendar.full.svg)
 ![](/assets/metrics.plugin.isocalendar.fullyear.svg)
-![](/assets/metrics.plugin.languages.svg)
-
 
 ![](https://math.vercel.app/?from=\mathcal{A}:\mathcal{D}\xrightarrow{\quad\mathcal{M}\\quad}\mathbb{S})
 
