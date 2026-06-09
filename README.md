@@ -3,6 +3,8 @@
 - 💞️ I’m looking to collaborate on *related topics*.
 - 📫 How to reach me: GMail( codeboycb@gmail.com )
 
+Maintaining a small **[cryptographic idea ledger](https://www.codeboy.site/pages/ledger.html)** for timestamped commitments to selected private notes and research drafts.
+
 ![](https://github-readme-stats-eta-roan-60.vercel.app/api?username=CodeBoy2006&show_icons=true&include_all_commits=true&hide_border=true&xx=1114142423)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=CodeBoy2006&theme=aura_dark)
 ![](/metrics.plugin.calendar.full.svg)
