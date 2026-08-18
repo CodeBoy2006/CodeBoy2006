@@ -22,12 +22,12 @@ Maintaining a small **[cryptographic idea ledger](https://www.codeboy.site/pages
   <img src="https://img.shields.io/static/v1?style=for-the-badge&message=Go&color=00ADD8&logo=go&logoColor=FFFFFF&label=" alt="Go" />
   <img src="https://img.shields.io/static/v1?style=for-the-badge&message=Python&color=3776AB&logo=Python&logoColor=FFFFFF&label=" alt="Python" />
   <img src="https://img.shields.io/static/v1?style=for-the-badge&message=TypeScript&color=3178C6&logo=typescript&logoColor=FFFFFF&label=" alt="TypeScript" />
-  <img src="https://img.shields.io/static/v1?style=for-the-badge&message=PHP&color=777BB4&logo=php&logoColor=FFFFFF&label=" alt="PHP" />
+  <!-- <img src="https://img.shields.io/static/v1?style=for-the-badge&message=PHP&color=777BB4&logo=php&logoColor=FFFFFF&label=" alt="PHP" /> -->
   <!--- <img src="https://img.shields.io/static/v1?style=for-the-badge&message=Swift&color=F05138&logo=swift&logoColor=FFFFFF&label=" alt="Swift" />--->
-  <img src="https://img.shields.io/static/v1?style=for-the-badge&message=Haskell&color=5D4F85&logo=haskell&logoColor=FFFFFF&label=" alt="Haskell" />
+  <!-- <img src="https://img.shields.io/static/v1?style=for-the-badge&message=Haskell&color=5D4F85&logo=haskell&logoColor=FFFFFF&label=" alt="Haskell" /> -->
   <img src="https://img.shields.io/static/v1?style=for-the-badge&message=Assembly&color=6E4C13&logo=assemblyscript&logoColor=FFFFFF&label=" alt="Assembly" />
   <!--- <img src="https://img.shields.io/static/v1?style=for-the-badge&message=Lua&color=2C2D72&logo=lua&logoColor=FFFFFF&label=" alt="Lua" />--->
-  <img src="https://img.shields.io/static/v1?style=for-the-badge&message=GNU+Bash&color=4EAA25&logo=gnubash&logoColor=FFFFFF&label=" alt="Bash" />
+  <!-- <img src="https://img.shields.io/static/v1?style=for-the-badge&message=GNU+Bash&color=4EAA25&logo=gnubash&logoColor=FFFFFF&label=" alt="Bash" /> -->
 </div>
 
 ### OS & Platforms
@@ -39,7 +39,7 @@ Maintaining a small **[cryptographic idea ledger](https://www.codeboy.site/pages
   <img src="https://img.shields.io/static/v1?style=for-the-badge&message=Alpine+Linux&color=0D597F&logo=alpinelinux&logoColor=FFFFFF&label=" alt="Alpine" />
   <img src="https://img.shields.io/static/v1?style=for-the-badge&message=iOS&color=000000&logo=ios&logoColor=FFFFFF&label=" alt="iOS" />
   <img src="https://img.shields.io/static/v1?style=for-the-badge&message=Android&color=3DDC84&logo=android&logoColor=FFFFFF&label=" alt="Android" />
-  <img src="https://img.shields.io/static/v1?style=for-the-badge&message=Chrome&color=4285F4&logo=googlechrome&logoColor=FFFFFF&label=" alt="Chrome" />
+  <!-- <img src="https://img.shields.io/static/v1?style=for-the-badge&message=Chrome&color=4285F4&logo=googlechrome&logoColor=FFFFFF&label=" alt="Chrome" /> -->
 </div>
 
 ### Frontend & Apps
@@ -49,7 +49,7 @@ Maintaining a small **[cryptographic idea ledger](https://www.codeboy.site/pages
   <!--- <img src="https://img.shields.io/static/v1?style=for-the-badge&message=Flutter&color=02569B&logo=flutter&logoColor=FFFFFF&label=" alt="Flutter" />--->
   <img src="https://img.shields.io/static/v1?style=for-the-badge&message=Expo&color=000020&logo=expo&logoColor=FFFFFF&label=" alt="Expo" />
   <img src="https://img.shields.io/static/v1?style=for-the-badge&message=tRPC&color=2596B6&logo=trpc&logoColor=FFFFFF&label=" alt="tRPC" />
-  <img src="https://img.shields.io/static/v1?style=for-the-badge&message=Tauri&color=24C8DB&logo=tauri&logoColor=FFFFFF&label=" alt="Tauri" />
+  <!-- <img src="https://img.shields.io/static/v1?style=for-the-badge&message=Tauri&color=24C8DB&logo=tauri&logoColor=FFFFFF&label=" alt="Tauri" /> -->
   <img src="https://img.shields.io/static/v1?style=for-the-badge&message=VitePress&color=0E83CD&logo=vitepress&logoColor=FFFFFF&label=" alt="VitePress" />
 </div>
 
@@ -84,14 +84,14 @@ Maintaining a small **[cryptographic idea ledger](https://www.codeboy.site/pages
   <img src="https://img.shields.io/static/v1?style=for-the-badge&message=Vite&color=646CFF&logo=vite&logoColor=FFFFFF&label=" alt="Vite" />
   <img src="https://img.shields.io/static/v1?style=for-the-badge&message=CMake&color=064F8C&logo=cmake&logoColor=FFFFFF&label=" alt="CMake" />
   <img src="https://img.shields.io/static/v1?style=for-the-badge&message=GDB&color=A42E2B&logo=gnu&logoColor=FFFFFF&label=" alt="GDB" />
-  <img src="https://img.shields.io/static/v1?style=for-the-badge&message=Turborepo&color=000000&logo=turborepo&logoColor=FFFFFF&label=" alt="Turborepo" />
-  <img src="https://img.shields.io/static/v1?style=for-the-badge&message=Wireshark&color=1679A7&logo=wireshark&logoColor=FFFFFF&label=" alt="Wireshark" />
-  <img src="https://img.shields.io/static/v1?style=for-the-badge&message=GCC&color=A42E2B&logo=gnu&logoColor=FFFFFF&label=" alt="GCC" />
-  <img src="https://img.shields.io/static/v1?style=for-the-badge&message=GNU+Make&color=008A20&logo=gnu&logoColor=FFFFFF&label=" alt="Make" />
+  <!-- <img src="https://img.shields.io/static/v1?style=for-the-badge&message=Turborepo&color=000000&logo=turborepo&logoColor=FFFFFF&label=" alt="Turborepo" /> -->
+  <!-- <img src="https://img.shields.io/static/v1?style=for-the-badge&message=Wireshark&color=1679A7&logo=wireshark&logoColor=FFFFFF&label=" alt="Wireshark" /> -->
+  <!-- <img src="https://img.shields.io/static/v1?style=for-the-badge&message=GCC&color=A42E2B&logo=gnu&logoColor=FFFFFF&label=" alt="GCC" /> -->
+  <!-- <img src="https://img.shields.io/static/v1?style=for-the-badge&message=GNU+Make&color=008A20&logo=gnu&logoColor=FFFFFF&label=" alt="Make" /> -->
   <img src="https://img.shields.io/static/v1?style=for-the-badge&message=pnpm&color=F69220&logo=pnpm&logoColor=FFFFFF&label=" alt="pnpm" />
   <img src="https://img.shields.io/static/v1?style=for-the-badge&message=Homebrew&color=FBB040&logo=homebrew&logoColor=FFFFFF&label=" alt="Homebrew" />
   <img src="https://img.shields.io/static/v1?style=for-the-badge&message=GitHub+Actions&color=2088FF&logo=githubactions&logoColor=FFFFFF&label=" alt="GitHub Actions" />
-  <img src="https://img.shields.io/static/v1?style=for-the-badge&message=ESLint&color=4B32C3&logo=eslint&logoColor=FFFFFF&label=" alt="ESLint" />
+  <!-- <img src="https://img.shields.io/static/v1?style=for-the-badge&message=ESLint&color=4B32C3&logo=eslint&logoColor=FFFFFF&label=" alt="ESLint" /> -->
 </div>
 
 ### Editors & Terminals
@@ -99,7 +99,7 @@ Maintaining a small **[cryptographic idea ledger](https://www.codeboy.site/pages
   <img src="https://img.shields.io/static/v1?style=for-the-badge&message=Visual+Studio+Code&color=007ACC&logo=visualstudiocode&logoColor=FFFFFF&label=" alt="VS Code" />
   <img src="https://img.shields.io/static/v1?style=for-the-badge&message=Vim&color=019733&logo=vim&logoColor=FFFFFF&label=" alt="Vim" />
   <img src="https://img.shields.io/static/v1?style=for-the-badge&message=Xcode&color=147EFB&logo=xcode&logoColor=FFFFFF&label=" alt="Xcode" />
-  <img src="https://img.shields.io/static/v1?style=for-the-badge&message=Tmux&color=1BB91F&logo=tmux&logoColor=FFFFFF&label=" alt="Tmux" />
+  <!-- <img src="https://img.shields.io/static/v1?style=for-the-badge&message=Tmux&color=1BB91F&logo=tmux&logoColor=FFFFFF&label=" alt="Tmux" /> -->
 </div>
 
 ### Game Engine
