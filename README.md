@@ -50,7 +50,7 @@ Maintaining a small **[cryptographic idea ledger](https://www.codeboy.site/pages
   <img src="https://img.shields.io/static/v1?style=for-the-badge&message=Expo&color=000020&logo=expo&logoColor=FFFFFF&label=" alt="Expo" />
   <img src="https://img.shields.io/static/v1?style=for-the-badge&message=tRPC&color=2596B6&logo=trpc&logoColor=FFFFFF&label=" alt="tRPC" />
   <!-- <img src="https://img.shields.io/static/v1?style=for-the-badge&message=Tauri&color=24C8DB&logo=tauri&logoColor=FFFFFF&label=" alt="Tauri" /> -->
-  <img src="https://img.shields.io/static/v1?style=for-the-badge&message=VitePress&color=0E83CD&logo=vitepress&logoColor=FFFFFF&label=" alt="VitePress" />
+  <!-- <img src="https://img.shields.io/static/v1?style=for-the-badge&message=VitePress&color=0E83CD&logo=vitepress&logoColor=FFFFFF&label=" alt="VitePress" /> -->
 </div>
 
 ### Runtimes
@@ -89,8 +89,8 @@ Maintaining a small **[cryptographic idea ledger](https://www.codeboy.site/pages
   <!-- <img src="https://img.shields.io/static/v1?style=for-the-badge&message=GCC&color=A42E2B&logo=gnu&logoColor=FFFFFF&label=" alt="GCC" /> -->
   <!-- <img src="https://img.shields.io/static/v1?style=for-the-badge&message=GNU+Make&color=008A20&logo=gnu&logoColor=FFFFFF&label=" alt="Make" /> -->
   <img src="https://img.shields.io/static/v1?style=for-the-badge&message=pnpm&color=F69220&logo=pnpm&logoColor=FFFFFF&label=" alt="pnpm" />
-  <img src="https://img.shields.io/static/v1?style=for-the-badge&message=Homebrew&color=FBB040&logo=homebrew&logoColor=FFFFFF&label=" alt="Homebrew" />
-  <img src="https://img.shields.io/static/v1?style=for-the-badge&message=GitHub+Actions&color=2088FF&logo=githubactions&logoColor=FFFFFF&label=" alt="GitHub Actions" />
+  <!-- <img src="https://img.shields.io/static/v1?style=for-the-badge&message=Homebrew&color=FBB040&logo=homebrew&logoColor=FFFFFF&label=" alt="Homebrew" /> -->
+  <!-- <img src="https://img.shields.io/static/v1?style=for-the-badge&message=GitHub+Actions&color=2088FF&logo=githubactions&logoColor=FFFFFF&label=" alt="GitHub Actions" /> -->
   <!-- <img src="https://img.shields.io/static/v1?style=for-the-badge&message=ESLint&color=4B32C3&logo=eslint&logoColor=FFFFFF&label=" alt="ESLint" /> -->
 </div>
 
