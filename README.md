@@ -1,9 +1,12 @@
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/bandit-stances-dark.svg">
+  <img alt="Optimism, bounded. Belief, sampled. Trust, exponentially weighted." src="assets/bandit-stances-light.svg" width="560">
+</picture>
+
 - 👋 Hi, I’m CodeBoy, a sophomore at ZJUT.
 - 🌱 I’m currently learning Software Engineering, System, Security, ML, and Mathematics(TCS & Statistics).
 - 💞️ I’m looking to collaborate on *related topics*.
 - 📫 How to reach me: GMail( codeboycb@gmail.com )
-
-Maintaining a small **[cryptographic idea ledger](https://www.codeboy.site/pages/ledger.html)** for timestamped commitments to selected private notes and research drafts.
 
 ![](https://github-readme-stats-eta-roan-60.vercel.app/api?username=CodeBoy2006&show_icons=true&include_all_commits=true&hide_border=true&xx=1114142423)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=CodeBoy2006&theme=aura_dark)
