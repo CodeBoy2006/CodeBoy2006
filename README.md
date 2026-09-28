@@ -1,3 +1,5 @@
+> In order to progress we must recognize our ignorance and leave room for doubt. (Richard Feynman)
+
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="assets/bandit-stances-dark.svg">
   <img alt="Optimism, bounded. Belief, sampled. Trust, exponentially weighted." src="assets/bandit-stances-light.svg" width="560">
