@@ -5,8 +5,10 @@
   <img alt="Optimism, bounded. Belief, sampled. Trust, exponentially weighted." src="assets/bandit-stances-light.svg" width="560">
 </picture>
 
-- 👋 Hi, I’m CodeBoy, a sophomore at ZJUT.
-- 🌱 Interested in Algorithms, Systems, Security, and Statistical Learning.
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/intro-sophomore-dark.svg">
+  <img src="assets/intro-sophomore-light.svg" width="560">
+</picture>
 
   <!--- ![](https://github-readme-stats-eta-roan-60.vercel.app/api?username=CodeBoy2006&show_icons=true&include_all_commits=true&hide_border=true&xx=1114142423)--->
  <!---![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=CodeBoy2006&theme=aura_dark)--->
