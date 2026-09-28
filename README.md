@@ -1,4 +1,8 @@
-> In order to progress we must recognize our ignorance and leave room for doubt. (Richard Feynman)
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/quote-dark.svg">
+  <img alt="> In order to progress we must recognize our ignorance and leave room for doubt. (Richard Feynman)" src="assets/quote-light.svg" width="560">
+</picture>
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="assets/bandit-stances-dark.svg">
