@@ -61,7 +61,14 @@
   <img src="https://img.shields.io/static/v1?style=for-the-badge&message=Grafana&color=F46800&logo=grafana&logoColor=FFFFFF&label=" alt="Grafana" />
 </div>
 
-## ☕ Donate with Crypto
+----
+
+<details>
+<summary>☕ <b>Buy me a coffee / Sponsor (Crypto)</b></summary>
+
+
+
+If you find my projects helpful, feel free to send a tip:
 
 **EVM** (Ethereum, Arbitrum, Base, Optimism, Polygon, BSC):  
 `0x0899Ba8C49aB2d316c529cBBebD3C82ED247369C`
@@ -74,6 +81,7 @@
 
 **Bitcoin** (BTC):  
 `bc1qk3e5s0zes0w7uh0385rxvvkrlt376gzvp8cj3l`
+</details>
 
 <!---
 CodeBoy2006/CodeBoy2006 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
