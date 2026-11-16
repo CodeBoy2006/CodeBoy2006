@@ -81,6 +81,9 @@ If you find my projects helpful, feel free to send a tip:
 
 **Bitcoin** (BTC):  
 `bc1qk3e5s0zes0w7uh0385rxvvkrlt376gzvp8cj3l`
+
+**Bitcoin Cash** (BCH):  
+`bitcoincash:qz0et20mys3r5ymtusyfk7gqt2wy0kqvputfcgums3`
 </details>
 
 <!---
